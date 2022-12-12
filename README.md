@@ -25,6 +25,13 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![görsel](C:\Users\ozoks\OneDrive\Desktop\github proje)
+![kodluyoruzilkrepo png](https://user-images.githubusercontent.com/120212026/207105986-bd4e469f-baeb-44a3-8b34-0f07e30719b5.jpg)
+
+
+
+
+
+
+
 
 
